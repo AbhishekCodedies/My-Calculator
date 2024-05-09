@@ -1,6 +1,5 @@
 # My-Calculator
 
-# my-calculator
 To create a basic calculator using CSS, HTML, and JavaScript, you'll need to implement an interactive interface with buttons for addition, subtraction, multiplication, and division operations. 
 Create a new folder: Create a new folder on your computer where you want to store your project files.
 Open Visual Studio Code: Open Visual Studio Code and navigate to the newly created folder by selecting "File" > "Open Folder..." from the menu and selecting the folder you created.
